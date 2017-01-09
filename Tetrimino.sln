@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{DE098DED-FE50-75A0-5113-646132A041D3}") = "Tetrimino", "Assembly-CSharp.csproj", "{3B364EF2-4D36-D818-79A9-9D96C947F0BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B364EF2-4D36-D818-79A9-9D96C947F0BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B364EF2-4D36-D818-79A9-9D96C947F0BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B364EF2-4D36-D818-79A9-9D96C947F0BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B364EF2-4D36-D818-79A9-9D96C947F0BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
